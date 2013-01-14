@@ -1,0 +1,12 @@
+5886b7b9f748494f82afa2eec06f9b98 *DESCRIPTION
+ce77682d692d5189c2a537abcbc6fb9a *NAMESPACE
+602844df11f9b82f67dd1a21a3a2eaf1 *R/ELF.R
+7f75ec1001123cdbd40ce8b3e2b37438 *R/low_p_value_integral.R
+48e18295197c03280120c9986e1ca24b *R/pval2FDR.R
+f8136035d96a3d0541364747882ea07c *R/subtype.R
+b2bb5ed5518642fdffa1afe70b33d61d *R/summary.R
+f01f8bbd6db620028714d0c26ca455fd *R/test_subtype_only.R
+ef4a1be2286d72fe2932775ac0f88f68 *R/tstatistics2.R
+57499ceb0ea502c87ff70e893192c25e *R/ufun.R
+6763b2a99a8f5056c2d74a57f20c5ca5 *man/subtype.Rd
+36f146e303d74d162f4ed9a6923a4f79 *man/summary.Rd
